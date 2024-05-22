@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack development...
 - 💞️ I’m looking to collaborate on Node-React Projects... 
 - 📫 You can reach me through my Upwork account, Jeison Roblero, or my LinkedIn, Jeison Roblero.
-- I have a lot of unfinished repositories I plan to finish this year, and also there is a new version of my portfolio
+- I have a lot of unfinished repositories I plan to finish and clean this year, and also there is a new version of my portfolio
 with new skills, on the make, also for this year.
 
 <!---
