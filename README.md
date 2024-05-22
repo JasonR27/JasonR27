@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning MERN stack development...
 - 💞️ I’m looking to collaborate on Node-React Projects... 
 - 📫 You can reach me through my Upwork account, Jeison Roblero, or my LinkedIn, Jeison Roblero.
+- I have a lot of unfinished repositories I plan to finish this year, and also there is a new version of my portfolio
+with new skills, on the make, also for this year.
 
 <!---
 JasonR27/JasonR27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
